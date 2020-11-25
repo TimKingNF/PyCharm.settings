@@ -1,0 +1,83 @@
+<keymap version="1" name="自定义 Mac. " parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateMessagesToolWindow" />
+  <action id="ActivateProjectToolWindow" />
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateReSTConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="CollapseBlock" />
+  <action id="CollapseSelection" />
+  <action id="ExportToTextFile" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoLine" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="Run" />
+  <action id="Tool_External Tools_Autopep8">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="Tool_External Tools_cython build">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="Tool_External Tools_isort">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Tool_External Tools_mypy">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="Tool_External Tools_pycodestyle">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="Tool_External Tools_pylint">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
+</keymap>

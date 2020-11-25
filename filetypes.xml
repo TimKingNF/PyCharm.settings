@@ -1,0 +1,36 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.egg-info;*.hprof;*.html.py;*.pyc;*.pyo;*.rbc;*.txt.py;*.yarb;*~;.DS_Store;.cache;.coverage;.eggs;.git;.hg;.idea;.ipynb_checkpoints;.mypy_cache;.pyre;.pytest_cache;.svn;.tox;.vs;.vscode;CVS;__pycache__;_svn;build;coverage_html_report;dask-worker-space;dist;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="README" type="Markdown" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern=".config.toml" type="PLAIN_TEXT" />
+      <mapping pattern=".devtools" type="PLAIN_TEXT" />
+      <mapping pattern=".pyre_configuration.local" type="PLAIN_TEXT" />
+      <mapping pattern=".gitingore" type="PLAIN_TEXT" />
+      <mapping pattern="pycodestyle" type="PLAIN_TEXT" />
+      <mapping ext="stamp" type="PLAIN_TEXT" />
+      <mapping ext="settings" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="sbt" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="scala" type="PLAIN_TEXT" />
+      <mapping ext="graph" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="proto_build" type="Python" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="README" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="datahub" type="Bash" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<templateSet group="Python">
+  <template name="todo" value="# TODO($author$): $DESC$" description="todo comment" toReformat="false" toShortenFQNames="true">
+    <variable name="author" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
