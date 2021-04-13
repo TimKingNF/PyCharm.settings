@@ -4,6 +4,14 @@
       <configuration>
         <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
         <option name="certificatesPath" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="D:\incremental" />
+              <option name="virtualMachinePath" value="/app/" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
       </configuration>
     </remote-server>
   </component>
