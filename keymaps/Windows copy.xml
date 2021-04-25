@@ -4,12 +4,22 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
-  <action id="GotoFile">
+  <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
   <action id="SmartSelect" />
   <action id="TableResult.GrowSelection" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
