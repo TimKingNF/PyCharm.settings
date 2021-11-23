@@ -62,6 +62,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="dict.__setitem__" />
+        <option value="ConfigParser" />
       </list>
     </option>
   </inspection_tool>
