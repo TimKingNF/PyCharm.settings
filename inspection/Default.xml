@@ -49,6 +49,21 @@
       </value>
     </option>
   </inspection_tool>
+  <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredPackages">
+      <value>
+        <list size="7">
+          <item index="0" class="java.lang.String" itemvalue="Scrapy" />
+          <item index="1" class="java.lang.String" itemvalue="six" />
+          <item index="2" class="java.lang.String" itemvalue="redis-decorator" />
+          <item index="3" class="java.lang.String" itemvalue="zipp" />
+          <item index="4" class="java.lang.String" itemvalue="wrapt" />
+          <item index="5" class="java.lang.String" itemvalue="zope.interface" />
+          <item index="6" class="java.lang.String" itemvalue="flake8" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
   <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ignoredErrors">
       <list>
