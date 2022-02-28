@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="abfb3856-2b15-452a-bdc2-b8c931cb18e3" name="timwang@172.28.249.48:32000 key">
-        <fileTransfer rootFolder="/data/home/timwang" accessType="SFTP" host="172.28.249.48" port="32000" sshConfigId="2943197a-aaed-46ea-819b-c196795c9f27" sshConfig="timwang@172.28.249.48:32000 key" keyPair="true" />
-      </webServer>
-    </option>
-  </component>
-</application>
