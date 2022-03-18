@@ -1,4 +1,4 @@
-<keymap version="1" name="Windows copy" parent="$default">
+<keymap version="1" name="tim-Windows" parent="$default">
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
