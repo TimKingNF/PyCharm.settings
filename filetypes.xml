@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*$py.class;*.egg-info;*.hprof;*.html.py;*.pyc;*.pyo;*.rbc;*.txt.py;*.yarb;*~;.DS_Store;.cache;.coverage;.eggs;.git;.hg;.idea;.ipynb_checkpoints;.mypy_cache;.pyre;.pytest_cache;.svn;.tox;.vs;.vscode;CVS;__pycache__;_svn;build;coverage_html_report;dask-worker-space;dist;vssver.scc;vssver2.scc" />
+    <ignoreFiles list="*$py.class;*.egg-info;*.hprof;*.html.py;*.pyc;*.pyo;*.rbc;*.txt.py;*.yarb;*~;.DS_Store;.cache;.coverage;.eggs;.git;.hg;.idea;.ipynb_checkpoints;.mypy_cache;.pyre;.pytest_cache;.svn;.tox;.vs;.vscode;CVS;__pycache__;_svn;build;coverage_html_report;dask-worker-space;dist;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="1" type="AUTO_DETECTED" />
+      <mapping pattern="pylintrc" type="AUTO_DETECTED" />
       <mapping pattern="pycodestyle" type="AUTO_DETECTED" />
       <mapping pattern="cookies" type="AUTO_DETECTED" />
-      <mapping pattern="pylintrc" type="AUTO_DETECTED" />
-      <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
