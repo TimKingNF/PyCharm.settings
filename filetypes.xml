@@ -6,6 +6,8 @@
       <mapping pattern="cookies" type="AUTO_DETECTED" />
       <mapping pattern="pylintrc" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
+      <mapping pattern="*_dockerfile" type="Dockerfile" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping pattern="ExSplitJointAutoNews" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
