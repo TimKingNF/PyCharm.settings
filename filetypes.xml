@@ -9,11 +9,10 @@
       <mapping pattern="*_dockerfile" type="Dockerfile" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
-      <removed_mapping ext="txt" type="PLAIN_TEXT" />
       <mapping pattern="ExSplitJointAutoNews" type="XML" />
-      <mapping ext="txt" type="requirements.txt" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
     </extensionMap>
