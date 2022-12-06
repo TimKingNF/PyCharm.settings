@@ -5,6 +5,7 @@
       <mapping pattern="pycodestyle" type="AUTO_DETECTED" />
       <mapping pattern="cookies" type="AUTO_DETECTED" />
       <mapping pattern="pylintrc" type="AUTO_DETECTED" />
+      <mapping pattern="StockStar_NewsWiseTest" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="*_dockerfile" type="Dockerfile" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
