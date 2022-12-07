@@ -9,6 +9,7 @@
     <mask>*.txt</mask>
     <mask>*.pyi</mask>
     <mask>*.proto</mask>
+    <mask>*.xml</mask>
     <mask>*.py</mask>
   </component>
 </application>
