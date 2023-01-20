@@ -4,7 +4,7 @@
   </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -78,6 +78,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text encoding="base64">Y3RybCBwcmVzc2VkIE0=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFk=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

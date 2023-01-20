@@ -5,10 +5,21 @@
       <mapping pattern="pycodestyle" type="AUTO_DETECTED" />
       <mapping pattern="cookies" type="AUTO_DETECTED" />
       <mapping pattern="pylintrc" type="AUTO_DETECTED" />
+      <mapping pattern="StockStar_NewsWiseTest" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
+      <mapping pattern="*_dockerfile" type="Dockerfile" />
+      <mapping pattern="README" type="Markdown" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping pattern="ExSplitJointAutoNews" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="yaml" approved="true" type="SnakeYAML" />
+      <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yml" approved="true" type="SnakeYAML" />
+      <removed_mapping ext="yml" approved="true" type="YAML_EX" />
+      <removed_mapping pattern="README" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
