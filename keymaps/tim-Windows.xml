@@ -1,10 +1,15 @@
 <keymap version="1" name="tim-Windows" parent="$default">
+  <action id="ActivateProjectToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="CloseActiveTab" />
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
