@@ -8,6 +8,7 @@
       <mapping pattern="StockStar_NewsWiseTest" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="*_dockerfile" type="Dockerfile" />
+      <mapping ext="j2" type="Jinja2" />
       <mapping pattern="README" type="Markdown" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="ExSplitJointAutoNews" type="XML" />
