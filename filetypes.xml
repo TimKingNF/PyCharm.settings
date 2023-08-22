@@ -10,6 +10,7 @@
       <mapping pattern="*_dockerfile" type="Dockerfile" />
       <mapping pattern="README" type="Markdown" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping pattern="ExSplitJointAutoNews" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
