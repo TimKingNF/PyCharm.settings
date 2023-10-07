@@ -13,7 +13,6 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="Python" />
       <mapping pattern="ExSplitJointAutoNews" type="XML" />
-      <mapping ext="gv" type="dot file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -22,6 +21,7 @@
       <removed_mapping ext="yml" approved="true" type="SnakeYAML" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <removed_mapping pattern="README" approved="true" type="AUTO_DETECTED" />
+      <mapping ext="gv" type="dot file" />
     </extensionMap>
   </component>
 </application>
