@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.28.249.48" id="2943197a-aaed-46ea-819b-c196795c9f27" keyPath="C:\Users\timwang\.ssh\id_rsa_globalsearch" port="32000" nameFormat="DESCRIPTIVE" username="timwang" />
+      <sshConfig host="10.10.146.135" id="97573ef4-9136-4321-9df0-78cd81211170" keyPath="$USER_HOME$/.ssh/id_rsa" port="32000" nameFormat="DESCRIPTIVE" username="timwang" />
     </configs>
   </component>
 </application>
