@@ -32,7 +32,11 @@
   </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
+  <action id="ReformatCode" />
   <action id="SmartSelect" />
   <action id="TableResult.GrowSelection" />
+  <action id="Tool_External Tools_isort">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
