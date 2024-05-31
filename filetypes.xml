@@ -7,6 +7,7 @@
       <mapping pattern="pylintrc" type="AUTO_DETECTED" />
       <mapping pattern="manager" type="AUTO_DETECTED" />
       <mapping pattern="StockStar_NewsWiseTest" type="AUTO_DETECTED" />
+      <mapping pattern="USPPIYoY" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="*_dockerfile" type="Dockerfile" />
       <mapping ext="j2" type="Jinja2" />
